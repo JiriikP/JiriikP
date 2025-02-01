@@ -1,6 +1,6 @@
 ## Hi there 👋
 - Student Gymnazium Arabská
-- CZ
+- CZ 🇨🇿
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
